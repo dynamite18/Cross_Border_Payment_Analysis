@@ -1,0 +1,11 @@
+processor_id,processor_name,specialization_region,base_fee_pct,sla_minutes,max_daily_capacity,reliability_score
+PR001,SwiftPay,Global,0.55,20,1200,98
+PR002,AsiaFast,APAC,0.45,18,900,95
+PR003,EuroLink,Europe,0.5,22,1000,97
+PR004,AmeriTrans,Americas,0.52,24,950,96
+PR005,AfricaConnect,Africa,0.7,40,650,90
+PR006,MiddleEastFlow,Middle East,0.48,20,700,96
+PR007,GlobalWire,Global,0.6,25,1500,99
+PR008,ExpressFX,Global,0.8,15,500,93
+PR009,TrustTransfer,Global,0.58,28,1300,98
+PR010,FinBridge,Global,0.5,23,1100,97

@@ -1,0 +1,21 @@
+country,region,currency,aml_risk,sanctions_score,avg_local_processing_min,weekend_type
+India,APAC,INR,Low,2,15,Sat-Sun
+USA,Americas,USD,Low,1,10,Sat-Sun
+UK,Europe,GBP,Low,1,12,Sat-Sun
+Germany,Europe,EUR,Low,1,12,Sat-Sun
+France,Europe,EUR,Low,2,14,Sat-Sun
+UAE,Middle East,AED,Low,2,10,Fri-Sat
+Saudi Arabia,Middle East,SAR,Low,3,18,Fri-Sat
+Qatar,Middle East,QAR,Low,2,15,Fri-Sat
+Singapore,APAC,SGD,Low,1,9,Sat-Sun
+Japan,APAC,JPY,Low,2,11,Sat-Sun
+Australia,APAC,AUD,Low,1,15,Sat-Sun
+Malaysia,APAC,MYR,Low,2,14,Sat-Sun
+China,APAC,CNY,Medium,5,25,Sat-Sun
+Brazil,Americas,BRL,Medium,5,28,Sat-Sun
+Mexico,Americas,MXN,Medium,5,30,Sat-Sun
+South Africa,Africa,ZAR,Medium,6,35,Sat-Sun
+Kenya,Africa,KES,Medium,6,38,Sat-Sun
+Nigeria,Africa,NGN,High,8,42,Sat-Sun
+Canada,Americas,CAD,Low,1,13,Sat-Sun
+Indonesia,APAC,IDR,Medium,4,24,Sat-Sun
