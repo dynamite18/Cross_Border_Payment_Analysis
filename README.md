@@ -1,4 +1,3 @@
-```markdown
 # 🌍 Cross-Border Payout Performance & Analytics
 
 An end-to-end Data Analytics project analyzing cross-border remittance transactions, vendor SLA compliance, foreign exchange (FX) slippage, and operational risk factors.
