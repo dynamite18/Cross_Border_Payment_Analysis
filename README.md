@@ -22,7 +22,7 @@ Fintech remittance platforms process billions of dollars across global corridors
 
 ## 📊 Dashboard Preview
 
-![Cross-Border Payout Dashboard](CB_Payment_Dashboard_Preview.png)
+![Cross Border Payout Dashboard](CB_Payment_Dashboard_Preview.png)
 
 ---
 
